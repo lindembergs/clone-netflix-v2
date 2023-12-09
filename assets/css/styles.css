@@ -78,6 +78,7 @@ body::before {
   margin: 20px 0px 15px 0px;
 }
 .support {
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
@@ -100,4 +101,18 @@ label {
 
 p {
   color: #9b9898;
+}
+
+.new {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin: 50px 0px 20px 0px;
+  gap: 5px;
+}
+
+.new a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
 }
