@@ -40,3 +40,15 @@ body::before {
   color: #fff;
   font-size: 32px;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form input {
+  width: 100%;
+  padding-inline: 15px;
+  padding-block: 10px;
+  gap: 5px;
+}
