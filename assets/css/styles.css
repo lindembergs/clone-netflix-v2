@@ -77,3 +77,27 @@ body::before {
   cursor: pointer;
   margin: 20px 0px 15px 0px;
 }
+.support {
+  display: flex;
+  justify-content: space-between;
+}
+.support a {
+  color: #9b9898;
+  text-decoration: none;
+  font-size: 14px;
+}
+input[type="checkbox"] {
+  width: 17px;
+  height: 16px;
+  cursor: pointer;
+}
+
+label {
+  color: #9b9898;
+  margin-right: 78px;
+  font-size: 14px;
+}
+
+p {
+  color: #9b9898;
+}
