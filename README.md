@@ -1,15 +1,15 @@
 <h1 align="center">
-    <img alt="My-wallet" title="My-wallet" src="src/assets/layout/laptopFront.svg" width= "80%"/>
+    <img alt="My-wallet" title="My-wallet" src="./assets/img/macBook.png" width= "80%"/>
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="My-wallet" src="src/assets/logo.svg" width="160px">
+  <img alt="My-wallet" src="./assets/img/share-logo.png" width="160px">
 </p>
 
 <h4 align="center">
-  A Digital wallet where you can control your account moviments.
+  A NETFLIX clone created for study.
 </h4>
 
 <p align="center">
@@ -25,25 +25,29 @@
 
 This project was developed using the following technologies:
 
-- [React.JS](https://reactjs.org)
+<!-- - [React.JS](https://reactjs.org)
 - [Recharts](https://recharts.org/en-US/g)
 - [React Countup](https://www.npmjs.com/package/react-countup)
 - [Styled Components](https://styled-components.com/)
 - [React Switch](https://www.npmjs.com/package/react-switch)
-- [React Toastify](https://www.npmjs.com/package/react-toastify)
+- [React Toastify](https://www.npmjs.com/package/react-toastify) -->
 
+- [html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [javaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :rocket: Getting started
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v14.17.2][nodejs] or higher + [Yarn v1.22.0][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://github.com/lindembergs/clone-netflix-v2.git), [Node.js v14.17.2][nodejs] or higher + [Yarn v1.22.0][yarn] or higher installed on your computer. From your command line:
 
 Clone the project and access the folder
 
 ```bash
-$ https://github.com/Ivo-Jr/my-wallet.git && cd my-wallet
+$ https://github.com/lindembergs/clone-netflix-v2.git && cd my-wallet
 ```
 
-Follow the steps below
+<!-- Follow the steps below
+
 ```bash
 # Install the dependencies
 $ yarn
@@ -53,19 +57,19 @@ $ yarn server
 
 # Start the project
 $ yarn start
-```
+``` -->
 
 ## :desktop_computer: Project
 
-The project is a digital wallet, when users can control your account movement, classify by recurrent and eventual expenses/gains.
+The project is a NETFLIX login clone.
 
-## :bookmark: Layout
+<!-- ## :bookmark: Layout
 
 You can view the project layout through the links below:
 
-- [Layout Web](https://www.figma.com/file/nOGmUkhcINJt6nd57R4ENu/Untitled?node-id=0%3A1) 
+- [Layout Web](https://www.figma.com/file/nOGmUkhcINJt6nd57R4ENu/Untitled?node-id=0%3A1)
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+Remembering that you need to have a [Figma](http://figma.com/) account to access it. -->
 
 ## :clapper: Demonstration
 
@@ -94,7 +98,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
         <img   style="margin: 15px 0px; width: 230px" alt="iPad" src="src/assets/layout/iPad.svg"/>
         <img   style="margin: 15px 0px; width: 210px" alt="cell-phone" src="src/assets/layout/cellPhone.svg"/>
       </div>
-  </h1>  
-
+  </h1>
 
 <p align="center">Made with ❤ by Ivo Jr</p>
