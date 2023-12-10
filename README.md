@@ -86,18 +86,18 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
   <div style="display: flex;   flex-direction: column;
   align-items: center;">
   <h1 align="center" style="display: flex; flex-direction:row;">
-      <img   style="margin: 15px 0px" alt="podcastr-img1" src="src/assets/layout/img4.png" />
+      <img   style="margin: 15px 0px" alt="podcastr-img1" src="./assets/img/responsive-layout.png" />
   </h1>     
   </div>
 
   <div style="display: flex; flex-direction: column;
   align-items: center;">
   <h1 align="center" style="display: column; flex-direction:row;">
-      <img   style="margin: 15px 0px; width: 550px" alt="laptop-perspective" src="src/assets/layout/laptopPerspective.svg" />
+      <img   style="margin: 15px 0px; width: 550px" alt="laptop-perspective" src="./assets/img/MacBook.jpeg" />
       <div style="display: flex; justify-content: center">
-        <img   style="margin: 15px 0px; width: 230px" alt="iPad" src="src/assets/layout/iPad.svg"/>
-        <img   style="margin: 15px 0px; width: 210px" alt="cell-phone" src="src/assets/layout/cellPhone.svg"/>
+        <img   style="margin: 15px 0px; width: 230px" alt="iPad" src="./assets/img/iPad.jpeg"/>
+        <img   style="margin: 15px 0px; width: 210px" alt="cell-phone" src="./assets/img/iPhone.jpeg"/>
       </div>
   </h1>
 
-<p align="center">Made with ❤ by Ivo Jr</p>
+<p align="center">Made with ❤ by Lindemberg</p>
