@@ -16,7 +16,7 @@
   <a href="#test_tube-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desktop_computer-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bookmark-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#bookmark-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#clapper-Demonstration">Demonstration</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sunny-result">Result</a>
 </p>
@@ -90,14 +90,15 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
   </h1>     
   </div>
 
-  <div style="display: flex; flex-direction: column;
+  <!-- <div style="display: flex; flex-direction: column;
   align-items: center;">
   <h1 align="center" style="display: column; flex-direction:row;">
       <img   style="margin: 15px 0px; width: 550px" alt="laptop-perspective" src="./assets/img/MacBook.jpeg" />
       <div style="display: flex; justify-content: center">
         <img   style="margin: 15px 0px; width: 230px" alt="iPad" src="./assets/img/iPad.jpeg"/>
+        <br>
         <img   style="margin: 15px 0px; width: 210px" alt="cell-phone" src="./assets/img/iPhone.jpeg"/>
       </div>
-  </h1>
+  </h1> -->
 
 <p align="center">Made with ❤ by Lindemberg</p>
