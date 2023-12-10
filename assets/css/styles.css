@@ -163,7 +163,7 @@ p {
   }
 }
 
-@media (min-width: 441px) and (max-width: 739px) {
+@media (min-width: 441px) and (max-width: 768px) {
   .container {
     padding: 15px;
     margin-top: 15px;

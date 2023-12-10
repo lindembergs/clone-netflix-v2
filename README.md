@@ -74,7 +74,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 ## :clapper: Demonstration
 
   <div style="display: flex;   flex-direction: column; align-items: center; margin: 15px 0px">
-    <img alt="my-wallet-gif" src="src/assets/movie/my-wallet.gif" width= "100%"/>    
+    <img alt="my-wallet-gif" src="./assets/img/login-gif.gif" width= "100%"/>    
   </div>
 
 ---
