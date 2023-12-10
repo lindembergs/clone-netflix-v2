@@ -27,7 +27,14 @@ body::before {
   background-color: rgba(0, 0, 0, 0.5);
   z-index: -1;
 }
-
+header {
+  padding-left: 20px;
+}
+header img {
+  width: 10rem;
+  height: 3rem;
+  margin-top: 20px;
+}
 .container {
   margin: 0 auto;
   margin-top: 150px;
