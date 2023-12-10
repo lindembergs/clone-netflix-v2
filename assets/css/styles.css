@@ -89,10 +89,23 @@ header img {
   display: flex;
   justify-content: space-between;
 }
-.support a {
+.help {
+  width: 50%;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-direction: row;
+}
+.help a {
   color: #9b9898;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 0.8rem;
+}
+.checkbox {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 2px;
 }
 input[type="checkbox"] {
   width: 17px;
@@ -134,4 +147,31 @@ p {
 .captcha a {
   color: #0058eb;
   font-size: 14px;
+}
+@media (max-width: 440px) {
+  .container {
+    padding: 15px;
+    margin-top: 15px;
+  }
+  header img {
+    width: 70px;
+    height: 20px;
+  }
+  body {
+    background-image: none;
+    background-color: black;
+  }
+}
+
+@media (min-width: 441px) and (max-width: 739px) {
+  .container {
+    padding: 15px;
+    margin-top: 15px;
+    min-width: 100vw;
+  }
+
+  body {
+    background-image: none;
+    background-color: black;
+  }
 }
