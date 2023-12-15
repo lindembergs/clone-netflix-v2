@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="My-wallet" title="My-wallet" src="./assets/img/macBook.png" width= "80%"/>
+    <img alt="layout no macbook" title="Clone da Netflix" src="./assets/img/macBook.png" width= "80%"/>
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="My-wallet" src="./assets/img/share-logo.png" width="160px">
+  <img alt="imagem da netflix" src="./assets/img/share-logo.png" width="160px">
 </p>
 
 <h4 align="center">
@@ -43,7 +43,7 @@ To clone and run this application, you'll need [Git](https://github.com/lindembe
 Clone the project and access the folder
 
 ```bash
-$ https://github.com/lindembergs/clone-netflix-v2.git && cd my-wallet
+$ https://github.com/lindembergs/clone-netflix-v2.git && cd clone-netflix-v2
 ```
 
 <!-- Follow the steps below
@@ -74,7 +74,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 ## :clapper: Demonstration
 
   <div style="display: flex;   flex-direction: column; align-items: center; margin: 15px 0px">
-    <img alt="my-wallet-gif" src="./assets/img/login-gif.gif" width= "100%"/>    
+    <img alt="login-gif" src="./assets/img/login-gif.gif" width= "100%"/>    
   </div>
 
 ---
@@ -86,7 +86,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
   <div style="display: flex;   flex-direction: column;
   align-items: center;">
   <h1 align="center" style="display: flex; flex-direction:row;">
-      <img   style="margin: 15px 0px" alt="podcastr-img1" src="./assets/img/responsive-layout.png" />
+      <img   style="margin: 15px 0px" alt="layout responsivo" src="./assets/img/responsive-layout.png" />
   </h1>     
   </div>
 
