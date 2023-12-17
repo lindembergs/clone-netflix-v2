@@ -40,11 +40,11 @@ header img {
 }
 .container {
   margin: 0 auto;
-  margin-top: 90px;
+  margin-top: 60px;
   max-width: 450px;
-  height: 600px;
-  padding: 60px;
-  background-color: rgba(0, 0, 0, 0.69);
+  height: 650px;
+  padding: 60px 68px 40px;
+  background-color: rgba(0, 0, 0, 0.75);
 }
 
 .container h1 {
