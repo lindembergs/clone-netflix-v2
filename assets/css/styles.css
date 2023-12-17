@@ -230,6 +230,7 @@ footer {
   .container {
     padding: 15px;
     margin-top: 15px;
+    height: 550px;
   }
   header img {
     width: 70px;
@@ -241,6 +242,9 @@ footer {
   }
 }
 @media (max-width: 500px) {
+  .container {
+    height: 550px;
+  }
   .links li {
     width: 50%;
   }
@@ -251,6 +255,7 @@ footer {
     padding: 15px;
     margin-top: 15px;
     min-width: 100vw;
+    height: 550px;
   }
 
   body {
